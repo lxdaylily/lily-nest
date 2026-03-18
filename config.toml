@@ -1,0 +1,11 @@
+current_identity = "Home Page"
+avatar_url = "/images/avatar.webp"
+bg_url = "/images/bg.webp"
+team_members = ["Suly", "chixiaoshu"]
+site_version = "0.1.0-alpha"
+intro = "template."
+
+[[items]]
+icon_url = "/images/default_icon.webp"
+title = "Template"
+content = "default."

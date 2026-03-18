@@ -1,0 +1,9 @@
+/target
+/static/images/*
+/static/Bing*
+/static/favicon.ico
+/static/robots.txt
+/static/sitemap.xml
+/templates
+static/css/tailwind.js
+static/css/MD3.css
